@@ -1,0 +1,4 @@
+Model,Loss Function,Gamma,Accuracy,Balanced Accuracy,Macro F1,Macro Specificity
+MLP,Class-Weighted Focal Loss,1.0000,0.9971,0.9529,0.9628,0.9991
+MLP,Class-Weighted Focal Loss,2.0000,0.9969,0.9639,0.9696,0.9990
+MLP,Class-Weighted Focal Loss,3.0000,0.9670,0.9672,0.8108,0.9933

@@ -1,0 +1,5 @@
+Model,Loss Function,Gamma,Accuracy,Balanced Accuracy,Macro F1,Macro Specificity
+Logistic Regression,CrossEntropy,-,0.9947,0.8486,0.9000,-
+Logistic Regression,Class-Weighted Focal Loss,1.0,0.9974,0.9659,0.9703,0.9991486298922426
+Logistic Regression,Class-Weighted Focal Loss,2.0,0.9823,0.9721,0.8399,0.9962374623719363
+Logistic Regression,Class-Weighted Focal Loss,3.0,0.9823,0.9721,0.8399,0.9962374623719363

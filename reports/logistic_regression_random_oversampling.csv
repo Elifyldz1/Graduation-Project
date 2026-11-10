@@ -1,0 +1,7 @@
+model,method,class,accuracy,balanced_accuracy,macro_f1,macro_precision,macro_recall,macro_specificity,precision,recall,f1,specificity
+Logistic Regression,Random Oversampling,overall,0.9972646822204344,0.9658608191542324,0.9627593812641855,0.9603563384017868,0.9658608191542324,0.9991500408851248,,,,
+Logistic Regression,Random Oversampling,cmdi,,,,,,,0.8823529411764706,0.8333333333333334,0.8571428571428571,0.999677263191867
+Logistic Regression,Random Oversampling,norm,,,,,,,0.9987026466009341,0.9968919968919969,0.9977965003240441,0.9978759558198811
+Logistic Regression,Random Oversampling,path-traversal,,,,,,,0.9830508474576272,1.0,0.9914529914529915,0.9998375832385902
+Logistic Regression,Random Oversampling,sqli,,,,,,,0.9990787655458314,0.9990787655458314,0.9990787655458314,0.9995054401582592
+Logistic Regression,Random Oversampling,xss,,,,,,,0.9385964912280702,1.0,0.9683257918552036,0.9988539620170268

@@ -1,0 +1,6 @@
+Actual / Predicted,cmdi,norm,path-traversal,sqli,xss
+cmdi,16,2,0,0,0
+norm,97,3755,0,3,6
+path-traversal,0,0,58,0,0
+sqli,1,1,0,2169,0
+xss,0,0,0,0,107

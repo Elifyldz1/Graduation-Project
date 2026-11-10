@@ -1,0 +1,6 @@
+Attack Type,Precision,Recall,F1-Score,Support
+cmdi,1.0,0.5,0.6667,18.0
+norm,0.9915,0.9997,0.9956,3861.0
+path-traversal,1.0,0.9138,0.955,58.0
+sqli,0.9995,0.9963,0.9979,2171.0
+xss,1.0,0.8962,0.9453,106.0

@@ -1,0 +1,2 @@
+Model,Loss Function,Accuracy,Balanced Accuracy,Macro F1,Macro Specificity
+MLP,CrossEntropy,0.9976,0.9660,0.9732,0.9993
